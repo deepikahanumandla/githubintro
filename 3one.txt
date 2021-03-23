@@ -1,9 +1,1 @@
-testing the file
-using vscode
-using remote
-aganin changing in the vscode
-<<<<<<< HEAD
-checking in vscode
-=======
-Checkinggg
->>>>>>> bb666737cdee4d3a5fe17a589da59d5adf7b1173
+remote
